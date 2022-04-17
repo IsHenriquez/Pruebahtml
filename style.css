@@ -26,3 +26,6 @@
     padding: 5px;
 }
 
+.ban , .corr , .iden{
+    background-color: rgba(253, 253, 252, 0.642);
+}
