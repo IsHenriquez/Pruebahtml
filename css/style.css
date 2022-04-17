@@ -1,0 +1,26 @@
+.nosotros {
+    width: 100%;
+    padding: 5px;
+}
+
+#form-a {
+    background-color: rgba(148, 156, 37, 0.534);
+    margin-top: 40px;
+    border-radius: 12px;
+    text-align: left;
+    margin-left: 350px;
+    color: rgb(29, 31, 3);
+    font-size: 20px;
+}
+
+#button {
+    background-color: rgba(0, 0, 0, 0.856);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    margin-left: 250px;
+}
+
+.form-group {
+    padding: 5px;
+}
